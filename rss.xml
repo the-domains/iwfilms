@@ -4,7 +4,7 @@
         <description><![CDATA[IWanna Films Producciones Ltda]]></description>
         <link>https://thegrid.ai/iwfilms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 20:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 21:19:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iwfilms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/iwfilms/3e838f10-4e78-4464-8b95-1dd889c60c88/index.html</link>
             <guid isPermaLink="false">3e838f10-4e78-4464-8b95-1dd889c60c88</guid>
             <pubDate>Mon, 07 Mar 2016 20:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>segunda impresión de The Grid, una estafa</p>]]></description>
+            <link>https://thegrid.ai/iwfilms/abfbfa6d-8e6d-44c6-b534-5869faf46515/index.html</link>
+            <guid isPermaLink="false">abfbfa6d-8e6d-44c6-b534-5869faf46515</guid>
+            <pubDate>Mon, 07 Mar 2016 21:18:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
