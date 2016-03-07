@@ -1,6 +1,6 @@
 name: IWFilms
 favicon: null
-layout_spectrum: 0.50764
+layout_spectrum: 1
 typography_spectrum: 0.74782
 title: IWanna Films Producciones Ltda
 cta:
@@ -22,7 +22,7 @@ color:
     - '#0d62a8'
     - '#4e8dca'
     - '#c68647'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.25
